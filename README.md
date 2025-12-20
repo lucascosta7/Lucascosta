@@ -36,7 +36,7 @@ entregar valor e contribuir em ambientes colaborativos.
     align="left" 
     alt="MYSQL"
     title="MYSQL" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
@@ -44,7 +44,7 @@ entregar valor e contribuir em ambientes colaborativos.
     align="left" 
     alt="POSTGRE" 
     title="POSTGRE"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
 />
@@ -52,7 +52,7 @@ entregar valor e contribuir em ambientes colaborativos.
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -60,7 +60,7 @@ entregar valor e contribuir em ambientes colaborativos.
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -68,17 +68,9 @@ entregar valor e contribuir em ambientes colaborativos.
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
