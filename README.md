@@ -36,7 +36,7 @@ entregar valor e contribuir em ambientes colaborativos.
     align="left" 
     alt="MYSQL"
     title="MYSQL" 
-    width="60px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
