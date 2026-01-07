@@ -31,6 +31,7 @@ entregar valor e contribuir em ambientes colaborativos.
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<br>
 
 <img 
     align="left" 
