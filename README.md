@@ -35,22 +35,6 @@ entregar valor e contribuir em ambientes colaborativos.
 
 <img 
     align="left" 
-    alt="MYSQL"
-    title="MYSQL" 
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="POSTGRE" 
-    title="POSTGRE"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="60px" 
@@ -64,6 +48,23 @@ entregar valor e contribuir em ambientes colaborativos.
     width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MYSQL"
+    title="MYSQL" 
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="POSTGRE" 
+    title="POSTGRE"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
